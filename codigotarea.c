@@ -17,7 +17,7 @@ int main(){
 			case 3:
 				printf("Hola desde la opcion 3\n\n");
 				break;
-      			case 5:
+      			case 4:
 				
 				break;
       			case 5:
