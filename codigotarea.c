@@ -12,7 +12,7 @@ int main(){
 				printf("Hola desde la opcion 1\n\n");
 				break;
 			case 2:
-				printf("Hola desde la opción 2\n\n")
+				printf("Hola desde la opción 2\n\n");
 				break;
 			case 3:
 				printf("Hola desde la opción 3\n\n");
