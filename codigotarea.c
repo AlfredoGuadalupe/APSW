@@ -17,16 +17,16 @@ int main(){
 			case 3:
 				
 				break;
-      case 5:
+      			case 5:
 				
 				break;
-      case 5:
+      			case 5:
 				
 				break;
-      case 6:
+      			case 6:
 				
 				break;
-      case 7:
+      			case 7:
 				printf("\nHasta pronto\n\n");
 				break;
 			default:
