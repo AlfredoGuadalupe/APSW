@@ -5,7 +5,7 @@
 int main(){
 	int op;
 	do{
-		printf("*****Selecciona el opcion:\n\t1) Saludo 1\n\t2) Saludo 2\n\t3) Saludo 3\n\t4) Saludo 4\n\t5) Saludo 5\n\t6) Saludo 6\n\t7) Salir\n");
+		printf("***Selecciona el opcion:\n\t1) Saludo 1\n\t2) Saludo 2\n\t3) Saludo 3\n\t4) Saludo 4\n\t5) Saludo 5\n\t6) Saludo 6\n\t7) Salir\n");
 		scanf("%d",&op);
 		switch(op){
 			case 1:
@@ -21,7 +21,7 @@ int main(){
 				printf("Hola Missael  4\n\n");
 				break;
       			case 5:
-				printf("Hola desde la opción 5\n\n");
+				printf("Hola Alfonso\n\n");
 				break;
       			case 6:
 				
